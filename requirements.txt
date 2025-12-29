@@ -1,5 +1,10 @@
 streamlit
-llama-index
-chromadb
-ollama
+fastapi
+uvicorn
 pypdf
+ollama
+chromadb
+llama-index
+llama-index-embeddings-ollama
+llama-index-llms-ollama
+llama-index-vector-stores-chroma
