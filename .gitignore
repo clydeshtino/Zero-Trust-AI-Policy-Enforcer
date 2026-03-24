@@ -37,8 +37,9 @@ env/
 *~
 .DS_Store
 
-# Ollama
+# Ollama & Vector DB
 chroma_db/
+python-rag/chroma_db/
 *.db
 *.sqlite
 
